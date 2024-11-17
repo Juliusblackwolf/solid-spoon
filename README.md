@@ -16,11 +16,11 @@
 - Adição de produtos ao carrinho.
 - Remoção de produtos do carrinho.
 
-# Protipação de Baixo Nível:
+# Protipação:
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipacao-baixo-nivel.png)
+![Prototipação-Home](documentacao/prototipacao/Tela_login_padrao.png)
 
-# Protipação de Alto Nível:
+
 
 ![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-home-top.png)
 
