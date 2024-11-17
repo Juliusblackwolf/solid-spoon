@@ -24,11 +24,11 @@ Prototipamos 5 cenários para cadastro de Aluno, de Fornecedor, Pessoa Física, 
 
 ![Prototipação-Home](documentacao/prototipacao/cadastro_aluno.png)
 
-![Prototipação-Home](documentacao/prototipacao/cadastro_fornecedor.png)
+![Prototipação-Home](documentacao/prototipacao/cadastro_fornecedor_v1.png)
 
-![Prototipação-Home](documentacao/prototipacao/cadastro_pessoa_fisica.png)
+![Prototipação-Home](documentacao/prototipacao/cadastro_pessoa_fisica_v1.png)
 
-![Prototipação-Home](documentacao/prototipacao/cadastro_pessoa_juridica.png)
+![Prototipação-Home](documentacao/prototipacao/cadastro_pessoa_juridica_v1.png)
 
 ![Prototipação-Home](documentacao/prototipacao/cadastro_professor.png)
 
