@@ -16,13 +16,9 @@ Prototipamos 5 cenários para cadastro de Aluno, de Fornecedor, Pessoa Física, 
 
 •	O usuário será informado do sucesso da operação e poderá visualizar as informações cadastradas.
 
-
-
 # Prototipação:
 
 ![Prototipação-Home](documentacao/prototipacao/Tela_login_padrao.png)
-
-
 
 ![Prototipação-Home](documentacao/prototipacao/tipo_de_cadastro.png)
 
@@ -30,22 +26,11 @@ Prototipamos 5 cenários para cadastro de Aluno, de Fornecedor, Pessoa Física, 
 
 ![Prototipação-Home](documentacao/prototipacao/cadastro_fornecedor.png)
 
-
-
 ![Prototipação-Home](documentacao/prototipacao/cadastro_pessoa_fisica.png)
-
-
 
 ![Prototipação-Home](documentacao/prototipacao/cadastro_pessoa_juridica.png)
 
-
-
 ![Prototipação-Home](documentacao/prototipacao/cadastro_professor.png)
-
-
-
-
-
 
 # Modelo de Entidade e Relacionamento
 
@@ -53,4 +38,4 @@ Prototipamos 5 cenários para cadastro de Aluno, de Fornecedor, Pessoa Física, 
 
 # Caso de uso com UML
 
-![UML](documentacao/uml/Diagrama de uso.png)
+![UML](documentacao/uml/diagrama_de_uso.png)
