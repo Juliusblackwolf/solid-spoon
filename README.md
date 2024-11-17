@@ -16,37 +16,38 @@
 - Adição de produtos ao carrinho.
 - Remoção de produtos do carrinho.
 
-# Protipação:
+# Prototipação:
 
 ![Prototipação-Home](documentacao/prototipacao/Tela_login_padrao.png)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-home-top.png)
+![Prototipação-Home](documentacao/prototipacao/tipo_de_cadastro.png)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-home-down.png)
+
+![Prototipação-Home](documentacao/prototipacao/cadastro_estudante.png)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-apresentacao.png)
+![Prototipação-Home](documentacao/prototipacao/cadastro_fornecedor.png)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-shop-top.png)
+![Prototipação-Home](documentacao/prototipacao/cadastro_pessoa_fisica.png)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-shop-down.png)
+![Prototipação-Home](documentacao/prototipacao/cadastro_pessoa_juridica.png)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-carrinho-top.png)
+![Prototipação-Home](documentacao/prototipacao/cadastro_professor.png)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-carrinho-down.png)
+![Prototipação-Home](documentacao/prototipacao/Tela_login_padrao.png)
 
 
 # Modelo de Entidade e Relacionamento
