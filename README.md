@@ -47,13 +47,13 @@
 
 
 
-![Prototipação-Home](documentacao/prototipacao/Tela_login_padrao.png)
+
 
 
 # Modelo de Entidade e Relacionamento
 
-![MER](documentacao/mer/Banco.jpg)
+![MER](documentacao/mer/Diagrama-de-classe_REV01.jpg)
 
 # Caso de uso com UML
 
-![UML](documentacao/uml/uml.png)
+![UML](documentacao/diagrama de uso.png)
