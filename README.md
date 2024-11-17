@@ -1,20 +1,17 @@
 # Requisitos: 
 
-*Cliente:*
-- Cadastro de conta com informações pessoais.
-- Exclusão de conta.
-- Opções de pagamento.
+Descreveremos 5 cenários de caso de uso: cadastro de Aluno, de Fornecedor, Pessoa Física, Professor e Pessoa Jurídica. Todos cenarios tem as seguintes pré e pós condições:
 
-*Produtos:*
-- Adição de novos produtos.
-- Remoção de produtos do catálogo.
-- Atualização dos produtos.
+*Pré-condições:*
+•	O usuário deve estar logado no sistema para realizar o cadastro;
+•	O CPF informado deve ser válido e único (não duplicado no sistema);
+•	O sistema deve estar conectado ao banco de dados para armazenar as informações.
 
-*Compras:*
-- Exibição de produtos com imagens, descrições e preços.
-- Visualização detalhada de produtos.
-- Adição de produtos ao carrinho.
-- Remoção de produtos do carrinho.
+*Pós-condições:*
+•	Se o cadastro for bem-sucedido, o sistema deverá armazenar todas as informações fornecidas, e a informação cadastrada deve estar registrada no banco de dados;
+•	O usuário será informado do sucesso da operação e poderá visualizar as informações cadastradas.
+
+
 
 # Prototipação:
 
@@ -56,4 +53,4 @@
 
 # Caso de uso com UML
 
-![UML](documentacao/diagrama de uso.png)
+![UML](documentacao/uml/Diagrama de uso.png)
