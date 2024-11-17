@@ -1,6 +1,6 @@
 # Requisitos: 
 
-Descreveremos 5 cenários de caso de uso: cadastro de Aluno, de Fornecedor, Pessoa Física, Professor e Pessoa Jurídica. Todos cenarios tem as seguintes pré e pós condições:
+Prototipamos 5 cenários para cadastro de Aluno, de Fornecedor, Pessoa Física, Professor e Pessoa Jurídica. Todos eles tem as seguintes pré e pós condições:
 
 *Pré-condições:*
 
